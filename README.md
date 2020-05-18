@@ -1,2 +1,2 @@
-CKEditor 5 MultiroodEditor for Autobound
+CKEditor 5 MultirootEditor for Autobound
 ========================================
